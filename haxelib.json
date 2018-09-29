@@ -1,0 +1,11 @@
+{
+  "name": "swfobject",
+  "url": "https://github.com/haxiomic/hx3compat",
+  "license": "MIT",
+  "tags": [ "swf", "swfobject", "externs", "hx3compat", "js" ],
+  "description": "Externs for SWFObject JavaScript library, extracted from the haxe 3 standard library",
+  "version": "2.3.0",
+  "releasenote": "Initial copy from std/js",
+  "contributors": ["haxiomic", "ncannasse", "andyli"],
+  "dependencies": {}
+}
